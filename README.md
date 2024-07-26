@@ -1,5 +1,4 @@
 
-Creating a README file for your Amazon clone website is a great idea! Here’s a template you can use to get started:
 
 Amazon Clone Website
 Overview
